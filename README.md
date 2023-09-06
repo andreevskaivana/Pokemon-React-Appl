@@ -1,3 +1,13 @@
+REACT APPLICATION for listing all Pokemons while making an API call using axios,practice using useEffect and useState.
+
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
